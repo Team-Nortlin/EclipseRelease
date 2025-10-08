@@ -4,12 +4,6 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Build outputs
-dist/
-dist-electron/
-build/
-app-ui/dist/
-
 # Electron specific
 out/
 *.log
@@ -68,10 +62,7 @@ jspm_packages/
 # dotenv environment variables file
 .env
 
-# Electron-Builder output
-/dist_electron/
-/dist/
-/build/
+
 
 # Electron-Builder output for Windows
 *.exe
