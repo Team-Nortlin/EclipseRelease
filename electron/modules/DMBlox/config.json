@@ -1,0 +1,32 @@
+{
+  "tokens": [],
+  "channels": {
+    "enabled": true,
+    "servers": [],
+    "message": "",
+    "deleteDelay": 3000,
+    "interval": 360
+  },
+  "messages": {
+    "channel": "",
+    "dm": ""
+  },
+  "settings": {
+    "deleteDelay": 0,
+    "dmResponseDelay": {
+      "min": 1000,
+      "max": 2000
+    }
+  },
+  "stats": {
+    "messagesSent": 0,
+    "dmsResponded": 0,
+    "respondedUsers": [],
+    "startTime": null
+  },
+  "dm": {
+    "enabled": true,
+    "message": "",
+    "responseDelay": 5000
+  }
+}
